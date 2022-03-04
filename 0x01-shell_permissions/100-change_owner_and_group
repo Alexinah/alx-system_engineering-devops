@@ -1,2 +1,2 @@
 #!/bin/bash
-[Vincent][:[STAFF]] *
+chown vincent:staff *
